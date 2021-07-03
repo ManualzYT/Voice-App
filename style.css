@@ -1,0 +1,46 @@
+body{
+background: linear-gradient(#ff0000,#0016ff,#ffa811);
+}
+
+
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+
+h1{
+color:beige;
+}
+
+h2{
+color:beige;
+}
+
+h3{
+color:beige;
+}
+
+label{
+    color:beige;
+    }
+
+p{
+color:beige;
+}
+
